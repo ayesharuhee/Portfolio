@@ -1,6 +1,6 @@
 # Portfolio
 
-###Personal Webpage
+### Personal Webpage
 
 "All about me"  website created to practice aesthetics. Created using HTML/CSS. 
 
